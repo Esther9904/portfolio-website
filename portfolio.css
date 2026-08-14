@@ -154,6 +154,11 @@ font-size:3rem;
 color:#3b82f6;
 }
 
+.skill svg path {
+fill:#3b82f6;
+font-size:3rem;
+}
+
 .skill span{
 font-size:18px;
 font-weight:600;
